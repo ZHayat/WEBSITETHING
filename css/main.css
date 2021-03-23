@@ -15,8 +15,13 @@ H1	{
 	
 }
 
+.dropbtn	{
+	
+	align:right;
+}
 
-dropdown-content	{
+
+.dropdown-content	{
 	text-align: right;
 	
 }
